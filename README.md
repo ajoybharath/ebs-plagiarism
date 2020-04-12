@@ -1,5 +1,3 @@
-# plagiarism
-
 ## Python web app to find plagiarism ##
 ### This is configured to deploy to Elastic Beanstalk ###
 
