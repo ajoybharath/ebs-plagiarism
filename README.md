@@ -39,5 +39,5 @@ Finally to do the cleanup,
 ```
 $ eb terminate plagiarism-demo 
 ```
-### This is a converted code base for APP engine deployment from the following blog ###
+### This is a converted code base forElastic Beanstalk  deployment from the following blog ###
 Full code and explanations in [here](http://amunategui.github.io/idea-to-pitch/index.html)
