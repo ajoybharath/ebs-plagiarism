@@ -39,7 +39,7 @@ Finally to do the cleanup,
 ```
 $ eb terminate plagiarism-demo 
 ```
-### The idea is developed for this code base for EBS deployment from the following blogs ###
+### The idea for this code base is developed from the following blogs ###
 - [here](http://amunategui.github.io/idea-to-pitch/index.html)
  &
 - [here](https://opensource.com/article/20/3/open-source-writing-tools)
